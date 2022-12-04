@@ -1,4 +1,4 @@
-Solutions to coding questions for 2022, written in Ada for : https://adventofcode.com/
+Solutions to coding questions for Advent of Code 2022, written in Ada : https://adventofcode.com/
 
 Note that some of the source files are written for use with HAC Ada Compiler , like day_4.
 
